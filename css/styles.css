@@ -1,3 +1,8 @@
+.Background-color {
+  background-color: rgb(51, 0, 80);
+  color: black
+}
+
 .About-me {
   border: 5px solid rgb(0, 11, 107);
   padding: 10px;
@@ -10,14 +15,13 @@
   box-sizing: border-box;
 }
 
-.centered-image {
+.image {
   margin: auto;
-  width: 50%;
+  width: 25%;
   height: auto;
   display: block;
 }
 
-.Background-color {
-  background-color: rgb(51, 0, 80);
-  color: white
+body {
+  font-family: sans-serif;
 }
