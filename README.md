@@ -6,7 +6,7 @@
 
 ## Description
 
-_This project was created to showcase all of what we learned during our first three weeks at Epicodus._
+_This project was created to showcase all of what we learned during our first three weeks at Epicodus. Here is a {link}(RobHickman.github.io/Portfolio) to the git hub page_
 
 ## Setup/Installation Requirements
 
@@ -27,7 +27,7 @@ _HTML_
 _Git Bash_
 _CSS_
 _Mark-down_
-_jpeg_
+_jpg_
 
 ### License
 
